@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🔭 I’m currently working on null
+- 🌱 我目前正在学习一些我喜欢的好东西
+- 💬 Ask me about python Android tool PHP 
+- ⚡ explore internet learn that to use
 <!--
 **xyyno/xyyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
