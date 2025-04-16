@@ -4,7 +4,7 @@
 - 💬 Ask me about python Android tool PHP 
 - ⚡ explore internet learn that how to use
 ## My GitHub stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xyyno)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=xyyno&theme=blueberry-duo&hide_border=%E7%9C%9F%E7%9A%84&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
 <!--
 **xyyno/xyyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
